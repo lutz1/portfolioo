@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolioo/static/css/main.2da36d56.css",
+    "main.js": "/portfolioo/static/js/main.5e98d491.js",
+    "static/media/interact.png": "/portfolioo/static/media/interact.154565f94d47565d0418.png",
+    "static/media/health.png": "/portfolioo/static/media/health.e5f47266171ca4cdfff4.png",
+    "static/media/me.png": "/portfolioo/static/media/me.21b793e136fe6a05611a.png",
+    "static/media/payroll.png": "/portfolioo/static/media/payroll.e951369cd9818a5a8209.png",
+    "static/media/codefest.jpg": "/portfolioo/static/media/codefest.02912cea9fb66aa577b6.jpg",
+    "index.html": "/portfolioo/index.html",
+    "main.2da36d56.css.map": "/portfolioo/static/css/main.2da36d56.css.map",
+    "main.5e98d491.js.map": "/portfolioo/static/js/main.5e98d491.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2da36d56.css",
+    "static/js/main.5e98d491.js"
+  ]
+}
